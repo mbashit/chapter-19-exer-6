@@ -24,19 +24,15 @@ int main()
 
 	switch (x) {
 	case 1:
-		(x == 1);
 		cout << "awarded 3 points" << endl;
 		break;
 	case 2:
-		(x == 2);
 		cout << "awarded 10 points" << endl;
 		break;
 	case 3:
-		(x == 3);
 		cout << "awarded 20 points" << endl;
 		break;
 	case 4:
-		(x >= 4);
 		cout << "awarded 45 points" << endl;
 		break;
 	default:
